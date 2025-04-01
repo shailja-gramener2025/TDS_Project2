@@ -5,7 +5,7 @@
         "type": "gitbash"
     },
     {
-        "question": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS request to the URL. \nSend a HTTPS request to https://httpbin.org/get with the URL encoded parameter email set to aakash.gorla@gramener.com \nWhat is the JSON output of the command? (Paste only the JSON body, not the headers)",
+        "question": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS request to the URL. \nSend a HTTPS request to https://httpbin.org/get with the URL encoded parameter email set to shailja.chaurasia@gramener.com \nWhat is the JSON output of the command? (Paste only the JSON body, not the headers)",
         "code": "no",
         "type": null
     },
